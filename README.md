@@ -1,6 +1,6 @@
 
 # Welcome to Foxy's Internet Logger!
-![Logo](Screenshots/logo.png)
+![Logo](Screenshots/Logo.png)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
