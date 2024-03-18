@@ -10,7 +10,7 @@
 A small open-source internet logger made using python an tkinter.
 # How it works
   So it simply pings site like google every 1 min (can be changed in the code) and if the site responds, that means you are connected to the internet if not its not going to log
-  More info on our Wiki
+  More info on our [Wiki](https://foxcode-1.gitbook.io/internet-logger/) 
 
 # Features
 **Current**
